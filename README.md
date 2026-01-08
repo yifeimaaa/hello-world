@@ -9,7 +9,7 @@
 # Welcome to ENTR-451
 
 This is an example of a GitHub repository.
-Tonight is great!
+Tonight is awesome!
 
 Commit steps:
 1. stage the changes
